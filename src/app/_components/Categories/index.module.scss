@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
   gap: 50px;
+  
 }
 
 .titleWrapper {
@@ -22,6 +23,7 @@
   gap: 30px;
   padding: 0;
   grid-template-columns: repeat(3, 1fr);
+  
   
 
   @include small-break {

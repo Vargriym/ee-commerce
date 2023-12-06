@@ -10,17 +10,27 @@
   }
 }
 
+.footerline p {
+  font-size: 40px;
+  margin-top: 90px;
+  margin-bottom: -70px;
+  line-height: 40px;
+  @include mid-break {
+  margin-bottom: -20px;
+; 
+ }
+}
 
 .inclusions {
   display: grid;
   justify-content: center;
   gap: 30px;
   padding: 0;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   margin: 100px 0;
 
   @include large-break {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 
   @include mid-break {
@@ -34,6 +44,13 @@
 
 .icon {
   margin-bottom: 16px;
+  border-radius: 10px;
+
+}
+
+
+.inclusions p {
+  color: gray;
 }
 
 

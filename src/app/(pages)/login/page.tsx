@@ -38,7 +38,12 @@ export default async function Login() {
             <h3>Welcome</h3>
           </div>
 
-          <p>Please login here</p>
+          <p>Demo Account: 
+          moeboraidini.workarea@gmail.com
+          <br></br>
+          Password: 123456
+
+          </p>
 
           <LoginForm />
         </div>

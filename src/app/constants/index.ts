@@ -1,23 +1,25 @@
+export const footerline = [
+  {
+    title: 'Grocery delivery you can count on',
+  },
+]
+
 export const inclusions = [
   {
-    title: 'Free Shipping',
-    description: 'Free shipping for order above $150',
-    icon: '/assets/icons/shipping.svg',
+    title: 'Choose what you want',
+    description: 'Select items from your favorite grocery stores at farm2fork or in the app.',
+    icon: '/assets/icons/what-you-want.webp',
+  },
+
+  {
+    title: 'See real-time updates',
+    description: 'Personal shoppers pick items with care. Chat as they shop and manage your order.',
+    icon: '/assets/icons/updates.webp',
   },
   {
-    title: 'Money Guarantee',
-    description: 'Within 30 days for an exchange',
-    icon: '/assets/icons/dollar.svg',
-  },
-  {
-    title: 'Online Support',
-    description: '24 hours a day, 7 days a week',
-    icon: '/assets/icons/support.svg',
-  },
-  {
-    title: 'Flexible Payment',
-    description: 'Pay with multiple credit cards',
-    icon: '/assets/icons/payment.svg',
+    title: 'Get your items same-day',
+    description: 'Pick a convenient time for you. Enjoy Instacart’s 100% quality guarantee on every order.',
+    icon: '/assets/icons/same-day.webp',
   },
 ]
 

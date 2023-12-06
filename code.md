@@ -179,20 +179,25 @@
 <summary><code>constants/index.ts</code></summary>
 
 ```typescript
+export const footerline = [
+  {
+    title: 'Grocery delivery you can count on',
+  },
+]
 export const inclusions = [
   {
-    title: 'Free Shipping',
-    description: 'Free shipping for order above $150',
-    icon: '/assets/icons/shipping.svg',
+    title: 'Fast delivery',
+    description: 'Get in as fast as 1 hour',
+    icon: '/assets/icons/delivery.webp',
   },
   {
-    title: 'Money Guarantee',
+    title: 'It’s all local',
     description: 'Within 30 days for an exchange',
     icon: '/assets/icons/dollar.svg',
   },
   {
-    title: 'Online Support',
-    description: '24 hours a day, 7 days a week',
+    title: 'It’s all local',
+    description: 'Shop your favorites',
     icon: '/assets/icons/support.svg',
   },
   {
