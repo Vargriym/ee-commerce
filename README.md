@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="typing test screenshot" src="https://github.com/Vargriym/full-stack-e-commerce-application/blob/master/e-commerce.png">
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/ee-commerce/blob/main/portfolio-project-pic.jpg">
     <h1 align="center">Full Stack E-Commerce Application</h1>
   </a>
 </p>
