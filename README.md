@@ -38,7 +38,7 @@ It offers a user-friendly interface where you can easily browse through a wide r
 - Seamlessly proceed to checkout.
 
 ## Tech stack
-- Next 13
+- Next 14
 - React
 - Payload CMS
 - Stripe
