@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#Introduction"><strong>Introduction</strong></a> ·
+    <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
     <a href="#Features"><strong>Features</strong></a> ·
   <a href="#Tech-Stack"><strong>Tech Stack</strong></a> ·
     <a href="#View-Demo"><strong>Live Demo</strong></a>
@@ -50,9 +50,7 @@ Sprint 3:
 
 The general process involved rapid iteration - planning, designing, implementing features in sprints, then refactoring and improving. Tailwind CSS allowed fast iteration on UI design. Overall an agile approach helped deliver working features quickly and iteratively improve the project.
 
-## View Demo
-https://e-commerce-farm2fork.payloadcms.app/
-
+<br/>
  
 ## Features
 
@@ -62,9 +60,12 @@ https://e-commerce-farm2fork.payloadcms.app/
 - Easily browse through a wide range of products.
 - Seamlessly proceed to checkout.
 
-## Tech stack
+## Technologies Used
 - Next 14
 - React
 - Payload CMS
 - Stripe
 - Tailwind
+
+## View Demo
+https://e-commerce-farm2fork.payloadcms.app
