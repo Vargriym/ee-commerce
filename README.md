@@ -19,6 +19,7 @@
 </p>
 
 <br/>
+
 ## How I worked on this project
 
 General approach:
@@ -40,12 +41,12 @@ Sprint 1:
 
 Sprint 2:
 
-Add routing and navigation between pages
-Style components with Tailwind CSS
+- Add routing and navigation between pages
+- Style components with Tailwind CSS
 
 Sprint 3:
 
-Polish UI, fix bugs, refactor code
+- Polish UI, fix bugs, refactor code
 
 The general process involved rapid iteration - planning, designing, implementing features in sprints, then refactoring and improving. Tailwind CSS allowed fast iteration on UI design. Overall an agile approach helped deliver working features quickly and iteratively improve the project.
 
