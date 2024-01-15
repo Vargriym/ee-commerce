@@ -19,16 +19,40 @@
 </p>
 
 <br/>
+## How I worked on this project
+
+General approach:
+
+The project was developed using an agile approach with sprints of 1-2 weeks.
+
+The initial phase involved planning and design. This included:
+
+- Creating user stories and mapping out core functionality
+- Wireframing key pages and components
+- Designing UI/UX flow
+
+Once planned, development was broken into sprints:
+
+Sprint 1:
+
+- Setup project structure, files and configuration
+- Build out forms and modals
+
+Sprint 2:
+
+Add routing and navigation between pages
+Style components with Tailwind CSS
+
+Sprint 3:
+
+Polish UI, fix bugs, refactor code
+
+The general process involved rapid iteration - planning, designing, implementing features in sprints, then refactoring and improving. Tailwind CSS allowed fast iteration on UI design. Overall an agile approach helped deliver working features quickly and iteratively improve the project.
 
 ## View Demo
 https://e-commerce-farm2fork.payloadcms.app/
 
-<!-- ABOUT THE PROJECT -->
-
-## Introduction
-
-This project aims to provide a convenient and efficient solution for managing and organizing users' grocery shopping experiences.
-It offers a user-friendly interface where you can easily browse through a wide range of products, add them to your virtual shopping cart, and seamlessly proceed to checkout. With features like personalized shopping lists and real-time inventory updates, this project is designed to simplify the user's grocery shopping process and enhance overall satisfaction. 
+ 
 ## Features
 
 - Personalized shopping lists.
