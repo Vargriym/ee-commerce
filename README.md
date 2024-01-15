@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-    <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
-    <a href="#Features"><strong>Features</strong></a> ·
-  <a href="#Challenges-faced-and-how-I-overcame-them"><strong>Challenges faced and how I overcame them</strong></a> ·
+    <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> -
+    <a href="#Features"><strong>Features</strong></a> -
+  <a href="#Challenges-faced-and-how-I-overcame-them"><strong>Challenges faced and how I overcame them</strong></a> -
     <a href="#View-Demo"><strong>View Demo</strong></a>
 
   
