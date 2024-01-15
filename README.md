@@ -12,7 +12,7 @@
 <p align="center">
     <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
     <a href="#Features"><strong>Features</strong></a> ·
-  <a href="#Challenges-faced-and-how-I-overcame-them"><strong>Challenges faced and how I overcame themk</strong></a> ·
+  <a href="#Challenges-faced-and-how-I-overcame-them"><strong>Challenges faced and how I overcame them</strong></a> ·
     <a href="#View-Demo"><strong>View Demo</strong></a>
 
   
@@ -50,6 +50,7 @@ Sprint 3:
 
 The general process involved rapid iteration - planning, designing, implementing features in sprints, then refactoring and improving. Tailwind CSS allowed fast iteration on UI design. Overall an agile approach helped deliver working features quickly and iteratively improve the project.
 
+<br/>
 
 ## Challenges faced and how I overcame them
 
