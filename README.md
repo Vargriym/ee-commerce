@@ -22,8 +22,6 @@
 
 ## How I worked on this project
 
-General approach:
-
 The project was developed using an agile approach with sprints of 1-2 weeks.
 
 The initial phase involved planning and design. This included:
