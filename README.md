@@ -12,7 +12,7 @@
 <p align="center">
     <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
     <a href="#Features"><strong>Features</strong></a> ·
-  <a href="#Tech-Stack"><strong>Tech Stack</strong></a> ·
+  <a href="#Challenges-faced-and-how-I-overcame-them"><strong>Challenges faced and how I overcame themk</strong></a> ·
     <a href="#View-Demo"><strong>View Demo</strong></a>
 
   
@@ -49,6 +49,17 @@ Sprint 3:
 - Polish UI, fix bugs, refactor code
 
 The general process involved rapid iteration - planning, designing, implementing features in sprints, then refactoring and improving. Tailwind CSS allowed fast iteration on UI design. Overall an agile approach helped deliver working features quickly and iteratively improve the project.
+
+
+## Challenges faced and how I overcame them
+
+Challenge #1: Integrating multiple technologies
+
+To overcome this, I broke the project down into logical components and integrated them modularly - Next.js for frontend, Payload CMS for content, Stripe for payments. Debugged through thorough error handling and logging.
+
+Challenge #2: Data fetching for dynamic content
+
+Used Next.js's getStaticProps, getServerSideProps for API requests. Created custom hooks and HTTP utilities to abstract data fetching logic from components.
 
  
 ## Features
