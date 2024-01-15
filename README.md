@@ -50,7 +50,6 @@ Sprint 3:
 
 The general process involved rapid iteration - planning, designing, implementing features in sprints, then refactoring and improving. Tailwind CSS allowed fast iteration on UI design. Overall an agile approach helped deliver working features quickly and iteratively improve the project.
 
-<br/>
  
 ## Features
 
