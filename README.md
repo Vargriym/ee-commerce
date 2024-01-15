@@ -13,7 +13,7 @@
     <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
     <a href="#Features"><strong>Features</strong></a> ·
   <a href="#Tech-Stack"><strong>Tech Stack</strong></a> ·
-    <a href="#View-Demo"><strong>Live Demo</strong></a>
+    <a href="#View-Demo"><strong>View Demo</strong></a>
 
   
 </p>
