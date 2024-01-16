@@ -28,7 +28,6 @@ The initial phase involved planning and design. This included:
 
 - Creating user stories and mapping out core functionality
 - Wireframing key pages and components
-- Designing UI/UX flow
 
 Once planned, development was broken into sprints:
 
