@@ -69,7 +69,7 @@ Used Next.js's getStaticProps, getServerSideProps for API requests. Created cust
 - Seamlessly proceed to checkout.
 
 ## Technologies Used
-- Next 14
+- Next (14)
 - React
 - Payload CMS
 - Stripe
