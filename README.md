@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A Full Stack E-Commerce Application built with Next 14, React, Payload CMS, Stripe & Tailwind.
+  A Full Stack E-Commerce Application built with Next 14, React, Payload CMS, Stripe & TailwindCSS.
 </p>
 
 <p align="center">
